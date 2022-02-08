@@ -1,0 +1,12 @@
+p{
+  column-count: 4;
+  column-fill: auto;
+  column-rule: 5px double black;
+  column-width: balance;
+  column-span: all;
+  text-align: justify;
+
+}
+.span{
+  column-span: all;
+}
